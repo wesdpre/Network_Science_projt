@@ -51,5 +51,5 @@ def generate_barabasi_albert(n, m0=3, m=2, random_seed=None):
         # Update the edge endpoints list with the new node
         edge_endpoints.extend([node] * m)
     
-    print("edge endpoints = ",edge_endpoints)
+    #print("edge endpoints = ",edge_endpoints)
     return graph
