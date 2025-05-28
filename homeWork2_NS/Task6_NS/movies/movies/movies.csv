@@ -1,0 +1,774 @@
+ID,Title,IMDB_id,ReleaseDate,Characters,Edges
+1,10 Things I Hate About You,tt0147800,1999,21,68
+2,12,tt0488478,2007,33,61
+3,Twelve and Holding,tt0417385,2005,25,47
+5,127 Hours,tt1542344,2010,9,10
+6,1492: Conquest of Paradise,tt0103594,1992,34,86
+7,15 Minutes,tt0179626,2001,45,141
+8,17 Again,tt0974661,2009,36,128
+9,One Eight Seven,tt0118531,1997,33,68
+10,2001: A Space Odyssey,tt0062622,1968,27,102
+11,2012,tt1190080,2009,66,211
+13,44 Inch Chest,tt0914837,2009,11,23
+14,48 Hrs.,tt0083511,1982,42,124
+15,(500) Days of Summer,tt1022603,2009,20,54
+17,8MM,tt0134273,1999,22,38
+19,A Few Good Men,tt0104257,1992,29,76
+21,Above the Law,tt0094602,1988,39,95
+22,Absolute Power,tt0118548,1997,27,46
+23,The Abyss,tt0096754,1989,28,108
+24,Ace Ventura: Pet Detective,tt0109040,1994,53,148
+25,Adaptation.,tt0268126,2002,30,44
+26,The Addams Family,tt0101272,1991,13,44
+27,The Adventures of Buckaroo Banzai Across the 8th Dimension,tt0086856,1984,52,206
+28,Affliction,tt0118564,1997,24,57
+30,After Life,tt0838247,2009,35,91
+31,Agnes of God,tt0088683,1985,21,102
+32,Air Force One,tt0118571,1997,52,150
+33,Airplane!,tt0080339,1980,25,62
+34,Airplane II: The Sequel,tt0083530,1982,95,378
+36,Ali,tt0248667,2001,75,249
+38,Alien 3,tt0103644,1992,25,77
+39,Alien Nation,tt0094631,1988,30,82
+40,AVP: Alien vs. Predator,tt0370263,2004,24,76
+41,Alien: Resurrection,tt0118583,1997,27,141
+42,Aliens,tt0090605,1986,24,106
+43,All About Eve,tt0042192,1950,19,79
+44,All About Steve,tt0881891,2009,44,110
+45,All the King's Men,tt0041113,1949,37,145
+47,Almost Famous,tt0181875,2000,53,206
+48,Alone in the Dark,tt0369226,2005,27,71
+49,Amadeus,tt0086879,1984,43,152
+50,Amelia,tt0211915,2001,26,54
+51,American Beauty,tt0169547,1999,22,46
+52,American Gangster,tt0765429,2007,59,119
+54,American History X,tt0120586,1998,39,114
+57,American Pie,tt0163651,1999,33,106
+58,The American President,tt0112346,1995,49,163
+59,American Psycho,tt0144084,2000,26,59
+60,American Shaolin,tt0101327,1991,32,73
+61,American Splendor,tt0305206,2003,35,82
+62,An American Werewolf in London,tt0082010,1981,31,86
+63,An Education,tt1174732,2009,18,46
+64,Analyze That,tt0289848,2002,47,130
+65,Analyze This,tt0122933,1999,39,130
+66,Anastasia,tt0118617,1997,31,98
+67,Angel Eyes,tt0225071,2001,33,85
+68,Angels & Demons,tt0808151,2009,25,55
+69,Annie Hall,tt0075686,1977,52,183
+70,The Anniversary Party,tt0254099,2001,28,188
+71,Antitrust,tt0218817,2001,43,113
+72,Antz,tt0120587,1998,37,140
+73,The Apartment,tt0053604,1960,33,76
+74,Apocalypse Now,tt0078788,1979,40,211
+76,Apt Pupil,tt0118636,1998,21,56
+80,Army of Darkness,tt0106308,1992,23,68
+81,As Good as It Gets,tt0119822,1997,35,74
+82,Assassins,tt0112401,1995,16,23
+83,The Assignment,tt0118647,1997,51,142
+84,At First Sight,tt0132512,1999,27,73
+85,Austin Powers: International Man of Mystery,tt0118655,1997,40,103
+86,Austin Powers: The Spy Who Shagged Me,tt0145660,1999,41,117
+87,Autumn in New York,tt0174480,2000,33,96
+88,Avatar,tt0499549,2009,30,105
+89,The Avengers,tt0054518,1961,21,48
+91,Awakenings,tt0099077,1990,52,261
+92,Babel,tt0449467,2006,71,154
+93,Bachelor Party,tt0086927,1984,62,284
+97,Backdraft,tt0101393,1991,40,174
+98,Bad Boys,tt0112442,1995,38,95
+99,Bad Day at Black Rock,tt0047849,1955,15,50
+100,The Bad Lieutenant: Port of Call - New Orleans,tt1095217,2009,39,84
+101,Bad Santa,tt0307987,2003,27,64
+102,Badlands,tt0069762,1973,18,28
+103,Bamboozled,tt0215545,2000,56,198
+104,Barry Lyndon,tt0072684,1975,47,95
+106,Basic,tt0264395,2003,22,65
+107,Basic Instinct,tt0103772,1992,25,84
+108,Basquiat,tt0115632,1996,59,365
+109,Batman,tt0096895,1989,49,127
+110,Batman Returns,tt0103776,1992,51,124
+111,The Battle of Algiers,tt0058946,1966,33,67
+112,The Battle of Shaker Heights,tt0357470,2003,32,80
+113,The Beach,tt0163978,2000,35,104
+114,Bean,tt0118689,1997,32,84
+115,Beavis and Butt-Head Do America,tt0115641,1996,56,150
+116,Being Human,tt1349938,2008,59,154
+117,Being John Malkovich,tt0120601,1999,34,83
+118,Being There,tt0078841,1979,48,114
+119,The Believer,tt0247199,2001,50,150
+120,Beloved,tt0120603,1998,31,65
+122,Big,tt0094737,1988,16,41
+123,Bear in the Big Blue House,tt0173664,1997,28,82
+124,Big Fish,tt0319061,2003,37,81
+125,The Big Lebowski,tt0118715,1998,37,81
+126,The Big White,tt0402850,2005,29,64
+127,The Birds,tt0056869,1963,26,137
+128,Birthday Girl,tt0188453,2001,16,24
+129,The Black Dahlia,tt0387877,2006,61,144
+130,Black Rain,tt0096933,1989,27,69
+131,Black Snake Moan,tt0462200,2006,35,76
+132,Blade,tt0120611,1998,24,54
+133,Blade II,tt0187738,2002,33,126
+134,Blade Runner,tt0083658,1982,25,44
+135,Blade: Trinity,tt0359013,2004,42,115
+136,Blast from the Past,tt0124298,1999,46,119
+137,Blood Simple.,tt0086979,1984,12,21
+138,Blow,tt0221027,2001,54,140
+139,Blue Velvet,tt0090756,1986,30,64
+141,"Bodies, Rest & Motion",tt0106447,1993,16,29
+142,Body Heat,tt0082089,1981,20,42
+143,Body of Evidence,tt0106453,1993,26,68
+144,The Bodyguard,tt0103855,1992,40,120
+145,Bones,tt0460627,2005,27,74
+146,The Bonfire of the Vanities,tt0099165,1990,63,260
+147,Bonnie and Clyde,tt0061418,1967,16,39
+148,Boogie Nights,tt0118749,1997,55,175
+149,The Book of Eli,tt1037705,2010,27,69
+150,The Boondock Saints II: All Saints Day,tt1300851,2009,44,143
+151,The Boondock Saints,tt0144117,1999,36,95
+152,Bottle Rocket,tt0115734,1996,35,122
+153,Bound,tt0115736,1996,15,31
+154,The Bounty Hunter,tt1038919,2010,35,76
+155,The Bourne Identity,tt0258463,2002,36,101
+157,The Bourne Ultimatum,tt0440963,2007,46,102
+158,Braveheart,tt0112573,1995,67,310
+159,Brazil,tt0088846,1985,38,98
+161,Breakdown,tt0118771,1997,20,45
+162,The Breakfast Club,tt0088847,1985,9,22
+163,Brick,tt0393109,2005,22,45
+164,Bringing Out the Dead,tt0163988,1999,42,130
+165,Broadcast News,tt0092699,1987,52,176
+166,Broken Arrow,tt0115759,1996,59,195
+167,Broken Embraces,tt0913425,2009,41,115
+169,Bruce Almighty,tt0315327,2003,50,140
+170,Buffy the Vampire Slayer,tt0118276,1997,41,203
+171,Bull Durham,tt0094812,1988,35,159
+173,Burlesque,tt1126591,2010,37,152
+174,Burn After Reading,tt0887883,2008,35,75
+175,The Butterfly Effect,tt0289879,2004,32,73
+176,The Cable Guy,tt0115798,1996,37,105
+177,Capote,tt0379725,2005,45,104
+178,Casino,tt0112641,1995,109,326
+179,Cast Away,tt0162222,2000,33,65
+180,Catch Me If You Can,tt0264464,2002,82,162
+182,The Cell,tt0209958,2000,24,59
+183,Cellular,tt0337921,2004,48,138
+184,Changeling,tt0824747,2008,59,145
+185,Spin City,tt0115369,1996,31,92
+186,Charade,tt0056923,1963,31,108
+187,Charlie's Angels: Full Throttle,tt0305357,2003,28,80
+189,Chasing Sleep,tt0221069,2000,17,40
+190,Cherry Falls,tt0175526,2000,51,112
+191,Chinatown,tt0071315,1974,50,125
+192,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",tt0363771,2005,29,146
+193,The Cider House Rules,tt0124315,1999,38,140
+194,The Cincinnati Kid,tt0059037,1965,36,198
+195,Cinema Paradiso,tt0095765,1988,40,100
+197,Citizen Kane,tt0033467,1941,56,148
+198,City of Joy,tt0103976,1992,44,143
+199,Clash of the Titans,tt0800320,2010,27,86
+200,Clerks.,tt0109445,1994,38,117
+201,Cliffhanger,tt0106582,1993,23,78
+204,Cobb,tt0109450,1994,41,109
+205,Code of Silence,tt0088936,1985,41,105
+206,Cold Mountain,tt0159365,2003,45,112
+208,Collateral Damage,tt0233469,2002,42,97
+209,Confessions of a Dangerous Mind,tt0270288,2002,69,135
+210,Confidence,tt0310910,2003,25,81
+211,Constantine,tt0360486,2005,24,44
+212,The Cooler,tt0318374,2003,31,104
+213,Copycat,tt0112722,1995,33,72
+214,Coraline,tt0327597,2009,42,108
+216,Cradle 2 the Grave,tt0306685,2003,36,117
+217,Crank,tt0479884,2006,40,75
+218,Crash,tt0375679,2004,15,25
+220,Crime Spree,tt0310924,2003,43,152
+221,"Crouching Tiger, Hidden Dragon",tt0190332,2000,32,92
+222,Croupier,tt0159382,1998,32,69
+223,The Crow: Salvation,tt0132910,2000,33,85
+224,The Crow,tt0109506,1994,30,68
+225,The Crow: City of Angels,tt0115986,1996,24,60
+226,Cruel Intentions,tt0139134,1999,16,33
+227,The Crying Game,tt0104036,1992,15,39
+229,The Curious Case of Benjamin Button,tt0421715,2008,44,129
+231,The Damned United,tt1226271,2009,37,84
+232,Dances with Wolves,tt0099348,1990,29,73
+234,Dark Star,tt0069945,1974,8,16
+235,Darkman,tt0099365,1990,39,137
+236,Date Night,tt1279935,2010,42,141
+238,Day of the Dead,tt0088993,1985,35,86
+239,The Day the Clown Cried,tt0068451,1972,39,151
+240,The Day the Earth Stood Still,tt0043456,1951,33,104
+241,Days of Heaven,tt0077405,1978,17,34
+242,Dead Poets Society,tt0097165,1989,42,275
+243,Death at a Funeral,tt0795368,2007,18,89
+244,Death to Smoochy,tt0266452,2002,49,118
+246,Deep Cover,tt0104073,1992,33,92
+247,Deep Rising,tt0118956,1998,19,71
+248,The Deer Hunter,tt0077416,1978,32,74
+249,Defiance,tt1034303,2008,58,248
+250,The Departed,tt0407887,2006,51,117
+251,Detroit Rock City,tt0165710,1999,47,153
+252,Devil in a Blue Dress,tt0112857,1995,34,82
+253,The Devil's Advocate,tt0118971,1997,43,120
+254,Die Hard,tt0095016,1988,47,237
+255,The Distinguished Gentleman,tt0104114,1992,49,197
+256,Disturbia,tt0486822,2007,20,48
+257,Do the Right Thing,tt0097216,1989,34,171
+258,Dog Day Afternoon,tt0072890,1975,53,410
+260,Donnie Brasco,tt0119008,1997,50,160
+261,The Doors,tt0101761,1991,95,567
+262,Double Indemnity,tt0036775,1944,20,44
+263,Drag Me to Hell,tt1127180,2009,30,77
+264,Dragonslayer,tt0082288,1981,15,52
+265,Drop Dead Gorgeous,tt0157503,1999,43,199
+266,A Dry White Season,tt0097243,1989,53,161
+268,Dumb & Dumber,tt0109686,1994,37,86
+269,Dune,tt0087182,1984,34,98
+271,Eagle Eye,tt1059786,2008,76,185
+272,Eastern Promises,tt0765443,2007,23,53
+273,Edtv,tt0131369,1999,77,246
+274,Ed Wood,tt0109707,1994,60,246
+276,Eight Legged Freaks,tt0271367,2002,24,86
+278,Election,tt0126886,1999,36,91
+279,The Elephant Man,tt0080678,1980,39,90
+280,Elizabeth: The Golden Age,tt0414055,2007,43,136
+281,Enemy of the State,tt0120660,1998,60,152
+282,The English Patient,tt0116209,1996,34,72
+283,Entrapment,tt0137494,1999,10,19
+286,Erin Brockovich,tt0195685,2000,40,73
+287,Escape from L.A.,tt0116225,1996,35,91
+288,Escape from New York,tt0082340,1981,26,49
+289,Eternal Sunshine of the Spotless Mind,tt0338013,2004,32,69
+290,Even Cowgirls Get the Blues,tt0106834,1993,37,98
+291,Event Horizon,tt0119081,1997,19,56
+292,The Evil Dead,tt0083907,1981,5,10
+293,Evil Dead II,tt0092991,1987,13,30
+294,Excalibur,tt0082348,1981,30,97
+295,Extract,tt1225822,2009,28,75
+296,The Fabulous Baker Boys,tt0097322,1989,36,80
+297,Face/Off,tt0119094,1997,38,106
+298,Fair Game,tt0977855,2010,68,214
+299,The Family Man,tt0218967,2000,32,64
+300,Fantastic Four,tt0120667,2005,37,114
+301,Fantastic Mr. Fox,tt0432283,2009,32,142
+302,Fargo,tt0116282,1996,32,64
+303,Fast Times at Ridgemont High,tt0083929,1982,57,151
+304,Fatal Instinct,tt0106873,1993,39,108
+305,Fear and Loathing in Las Vegas,tt0120669,1998,40,84
+306,Babette's Feast,tt0092603,1987,29,254
+307,Ferris Bueller's Day Off,tt0091042,1986,39,99
+308,The Fifth Element,tt0119116,1997,62,186
+309,Fight Club,tt0137523,1999,46,94
+310,Final Destination,tt0195714,2000,31,150
+311,Final Destination 2,tt0309593,2003,38,171
+313,Five Easy Pieces,tt0065724,1970,21,61
+314,Fletch,tt0089155,1985,48,124
+315,The Flintstones,tt0053502,1960,35,105
+316,Forrest Gump,tt0109830,1994,94,271
+317,Four Feathers,tt0005353,1915,19,26
+318,Four Rooms,tt0113101,1995,28,70
+319,Fracture,tt0488120,2007,35,68
+320,French Kiss,tt0113117,1995,68,158
+321,Frankenstein,tt0109836,1994,56,160
+322,Freddy vs. Jason,tt0329101,2003,37,92
+323,The French Connection,tt0067116,1971,40,78
+324,Frequency,tt0186151,2000,39,90
+325,Friday the 13th,tt0080761,1980,14,36
+326,Friday the 13th Part VIII: Jason Takes Manhattan,tt0097388,1989,27,88
+327,From Dusk Till Dawn,tt0116367,1996,21,86
+328,Cashback,tt0460740,2006,9,21
+329,Frozen River,tt0978759,2008,22,32
+330,The Fugitive,tt0106977,1993,58,146
+331,Funny People,tt1201167,2009,43,104
+332,G.I. Jane,tt0119173,1997,41,141
+333,G.I. Joe: The Rise of Cobra,tt1046173,2009,29,84
+334,Game 6,tt0425055,2005,33,73
+335,The Game,tt0119174,1997,49,116
+336,Gamer,tt1034032,2009,43,104
+337,Gandhi,tt0083987,1982,76,200
+338,Gang Related,tt0118900,1997,57,189
+339,Gangs of New York,tt0217505,2002,70,266
+340,Gattaca,tt0119177,1997,30,71
+341,Get Carter,tt0067128,1971,27,58
+343,The Getaway,tt0068638,1972,31,60
+344,Ghost,tt0099653,1990,37,118
+346,Ghost Rider,tt0259324,2007,74,251
+347,Ghost Ship,tt0288477,2002,15,46
+348,Ghost World,tt0162346,2001,53,144
+349,Ghostbusters,tt0087332,1984,14,41
+350,Ghostbusters II,tt0097428,1989,33,106
+351,Ginger Snaps,tt0210070,2000,27,82
+352,Gladiator,tt0172495,2000,29,82
+354,Go,tt0139239,1999,34,96
+355,The Godfather,tt0068646,1972,42,104
+356,The Godfather: Part II,tt0071562,1974,78,219
+357,Gods and Monsters,tt0120684,1998,26,70
+358,Godzilla,tt0120685,1998,49,151
+359,Gone in Sixty Seconds,tt0187078,2000,39,117
+361,Good Will Hunting,tt0119217,1997,31,65
+362,Gothika,tt0348836,2003,22,59
+363,The Graduate,tt0061722,1967,34,97
+364,Gran Torino,tt1205489,2008,39,105
+366,Grand Theft Parsons,tt0338075,2003,28,59
+368,The Green Mile,tt0120689,1999,47,268
+369,Gremlins,tt0087363,1984,51,286
+370,Gremlins 2: The New Batch,tt0099700,1990,64,251
+371,The Grifters,tt0099703,1990,33,61
+372,Grosse Pointe Blank,tt0119229,1997,39,84
+373,Groundhog Day,tt0107048,1993,54,139
+374,The Grudge,tt0391198,2004,20,30
+375,Hackers,tt0113243,1995,51,190
+376,Halloween: The Curse of Michael Myers,tt0113253,1995,50,181
+377,Hancock,tt0448157,2008,44,87
+378,The Hangover,tt1119646,2009,37,158
+379,Hannah and Her Sisters,tt0091167,1986,42,134
+383,Hard to Kill,tt0099739,1990,30,54
+384,Harold & Kumar Go to White Castle,tt0366551,2004,41,138
+385,The Haunting,tt0171363,1999,15,35
+386,He's Just Not That Into You,tt1001508,2009,51,114
+387,Heat,tt0113277,1995,59,135
+388,Heathers,tt0097493,1988,44,231
+389,Heavenly Creatures,tt0110005,1994,13,25
+391,The Hebrew Hammer,tt0317640,2003,39,121
+393,Hellbound: Hellraiser II,tt0095294,1988,16,46
+394,Hellboy,tt0167190,2004,38,91
+395,Hellboy II: The Golden Army,tt0411477,2008,35,148
+396,Hellraiser,tt0093177,1987,16,42
+397,Hellraiser III: Hell on Earth,tt0104409,1992,42,112
+398,Hellraiser: Deader,tt0337636,2005,21,70
+399,Hellraiser: Hellseeker,tt0274546,2002,35,84
+400,Henry Fool,tt0122529,1997,31,79
+401,High Fidelity,tt0146882,2000,28,67
+402,Highlander,tt0091203,1986,59,108
+403,Highlander: Endgame,tt0144964,2000,49,134
+404,His Girl Friday,tt0032599,1940,40,154
+405,The Hitchhiker's Guide to the Galaxy,tt0371724,2005,31,101
+406,Hollow Man,tt0164052,2000,13,35
+407,Honeydripper,tt0829193,2007,33,114
+408,The Horse Whisperer,tt0119314,1998,26,86
+409,The Kingdom,tt0108906,1994,50,148
+410,Hostage,tt0340163,2005,38,105
+411,Hot Tub Time Machine,tt1231587,2010,33,138
+412,Hotel Rwanda,tt0395169,2004,66,182
+413,House of 1000 Corpses,tt0251736,2003,33,121
+414,Hudson Hawk,tt0102070,1991,24,97
+415,The Hudsucker Proxy,tt0110074,1994,57,180
+416,Human Nature,tt0219822,2001,18,38
+417,I Am Sam,tt0277027,2001,47,140
+418,I Love You Phillip Morris,tt1045772,2009,51,94
+419,I Still Know What You Did Last Summer,tt0130018,1998,18,46
+420,I'll Do Anything,tt0110097,1994,47,189
+421,"I, Robot",tt0343818,2004,29,72
+422,The Ice Storm,tt0119349,1997,29,65
+423,The Imaginarium of Doctor Parnassus,tt1054606,2009,39,183
+424,In the Loop,tt1226774,2009,33,130
+426,Independence Day,tt0116629,1996,66,209
+427,Indiana Jones and the Last Crusade,tt0097576,1989,24,65
+429,Indiana Jones and the Temple of Doom,tt0087469,1984,16,41
+430,Raiders of the Lost Ark,tt0082971,1981,32,134
+432,The Insider,tt0140352,1999,45,109
+433,Insomnia,tt0278504,2002,32,91
+434,Interview with the Vampire: The Vampire Chronicles,tt0110148,1994,23,56
+435,Into the Wild,tt0758758,2007,27,38
+436,Intolerable Cruelty,tt0138524,2003,40,113
+437,Inventing the Abbotts,tt0119381,1997,17,39
+438,The Invention of Lying,tt1058017,2009,61,291
+439,The Island,tt0399201,2005,27,45
+442,It's a Wonderful Life,tt0038650,1946,70,339
+443,It's Complicated,tt1230414,2009,28,81
+444,The Italian Job,tt0317740,2003,29,57
+445,The Jacket,tt0366627,2005,26,47
+446,Jackie Brown,tt0119396,1997,25,61
+447,Jacob's Ladder,tt0099871,1990,54,144
+449,Jason X,tt0211443,2001,26,150
+450,Jaws,tt0073195,1975,36,85
+451,Jaws 2,tt0077766,1978,49,232
+452,Jay and Silent Bob Strike Back,tt0261392,2001,61,228
+453,Jennifer Eight,tt0104549,1992,25,61
+454,Jennifer's Body,tt1131734,2009,26,55
+455,Jerry Maguire,tt0116695,1996,48,128
+456,JFK,tt0102138,1991,101,293
+457,Jimmy and Judy,tt0425151,2006,19,42
+458,John Q,tt0251160,2002,46,190
+459,Juno,tt0467406,2007,25,55
+460,Jurassic Park,tt0107290,1993,24,115
+461,Jurassic Park III,tt0163025,2001,20,57
+462,The Lost World: Jurassic Park,tt0119567,1997,27,93
+464,Kalifornia,tt0107302,1993,43,159
+465,Kate & Leopold,tt0035423,2001,24,54
+466,Kids,tt0113540,1995,41,130
+467,Kill Bill: Vol. 1,tt0266697,2003,38,78
+468,Killing Zoe,tt0110265,1993,21,64
+469,King Kong,tt0360717,2005,50,169
+470,The King of Comedy,tt0085794,1982,43,144
+471,The King's Speech,tt1504320,2010,26,80
+472,Indiana Jones and the Kingdom of the Crystal Skull,tt0367882,2008,44,182
+474,Klute,tt0067309,1971,37,71
+475,Kramer vs. Kramer,tt0079417,1979,57,266
+476,Kundun,tt0119485,1997,33,60
+477,Kung Fu Panda,tt0441773,2008,21,70
+478,L.A. Confidential,tt0119488,1997,53,131
+481,The Ladykillers,tt0335245,2004,33,86
+482,Lake Placid,tt0139414,1999,22,65
+483,Land of the Dead,tt0418819,2005,51,221
+484,The Last Boy Scout,tt0102266,1991,44,100
+485,Last Chance Harvey,tt1046947,2008,41,96
+486,The Last Flight of Noah's Ark,tt0081031,1980,26,127
+487,The Last of the Mohicans,tt0104691,1992,29,134
+488,The Last Samurai,tt0325710,2003,20,54
+489,The Last Station,tt0824758,2009,15,47
+490,Law Abiding Citizen,tt1197624,2009,41,117
+491,Leaving Las Vegas,tt0113627,1995,34,57
+494,Legion,tt1038686,2010,23,86
+495,Leviathan,tt0097737,1989,12,44
+496,Liar Liar,tt0119528,1997,58,265
+497,Life,tt0123964,1999,56,212
+498,Life as a House,tt0264796,2001,29,99
+499,The Life of David Gale,tt0289992,2003,55,143
+500,Light Sleeper,tt0102307,1992,23,32
+501,The Limey,tt0165854,1999,22,48
+503,Little Athens,tt0417907,2005,47,124
+505,Little Nicky,tt0185431,2000,53,202
+506,Living in Oblivion,tt0113677,1995,21,91
+507,"Lock, Stock and Two Smoking Barrels",tt0120735,1998,42,134
+508,Logan's Run,tt0074812,1976,21,69
+509,Lone Star,tt0116905,1996,52,142
+510,The Long Kiss Goodnight,tt0116908,1996,48,114
+511,Lord of Illusions,tt0113690,1995,28,64
+512,The Lord of the Rings: The Fellowship of the Ring,tt0120737,2001,24,106
+513,The Lord of the Rings: The Return of the King,tt0167260,2003,35,98
+515,Lord of War,tt0399295,2005,43,91
+516,The Losers,tt0480255,2010,33,108
+517,Lost Highway,tt0116922,1997,33,78
+518,Lost Horizon,tt0029162,1937,30,77
+519,Lost in Space,tt0120738,1998,27,96
+520,Lost in Translation,tt0335266,2003,27,48
+521,Love & Basketball,tt0199725,2000,39,126
+523,Magnolia,tt0175880,1999,82,239
+524,The Majestic,tt0268995,2001,47,159
+525,Major League,tt0097815,1989,54,306
+526,Malcolm X,tt0104797,1992,76,174
+527,Malibu's Most Wanted,tt0328099,2003,34,166
+528,The Man in the Iron Mask,tt0120744,1998,38,107
+529,Man on Fire,tt0328107,2004,36,73
+530,Man on the Moon,tt0125664,1999,67,186
+531,Knight and Day,tt1013743,2010,29,79
+532,The Man Who Knew Too Much,tt0049470,1956,42,109
+533,The Man Who Wasn't There,tt0243133,2001,38,107
+534,The Manchurian Candidate,tt0056218,1962,40,131
+535,Manhunter,tt0091474,1986,47,100
+536,Margot at the Wedding,tt0757361,2007,16,57
+537,Desperado,tt0112851,1995,12,20
+538,Marley & Me,tt0822832,2008,30,67
+539,Marty,tt0048356,1955,26,59
+541,The Mask,tt0110475,1994,77,318
+542,The Matrix Reloaded,tt0234215,2003,27,81
+543,The Matrix,tt0133093,1999,31,88
+544,Max Payne,tt0467197,2008,62,331
+545,Meet Joe Black,tt0119643,1998,22,68
+547,Megamind,tt1001526,2010,35,96
+548,Memento,tt0209144,2000,14,19
+549,Men in Black,tt0119654,1997,32,75
+550,The Men Who Stare at Goats,tt1234548,2009,46,96
+551,Subway,tt0090095,1985,54,108
+552,Miami Vice,tt0430357,2006,28,82
+553,Midnight Cowboy,tt0064665,1969,28,47
+555,Mighty Morphin Power Rangers: The Movie,tt0113820,1995,36,200
+556,Milk,tt1013753,2008,41,133
+558,Mimic,tt0119675,1997,23,52
+559,Mini's First Time,tt0425253,2006,42,114
+560,Minority Report,tt0181689,2002,51,149
+562,Mirrors,tt0790686,2008,26,45
+564,Mission: Impossible,tt0117060,1996,28,86
+565,Mission: Impossible II,tt0120755,2000,22,105
+566,Mission to Mars,tt0183523,2000,40,188
+567,Monkeybone,tt0166276,2001,52,146
+569,Moon,tt1182345,2009,12,27
+570,Moonstruck,tt0093565,1987,40,141
+571,Mr. Blandings Builds His Dream House,tt0040613,1948,37,157
+572,Mr. Brooks,tt0780571,2007,37,80
+573,Mr. Deeds Goes to Town,tt0027996,1936,61,331
+575,"Her Majesty, Mrs. Brown",tt0119280,1997,23,44
+577,Mulholland Dr.,tt0166924,2001,49,163
+578,Mumford,tt0140397,1999,24,58
+579,The Mummy,tt0120616,1999,22,77
+580,Music of the Heart,tt0166943,1999,58,201
+581,My Best Friend's Wedding,tt0119738,1997,24,69
+582,My Girl,tt0102492,1991,33,108
+583,My Mother Dreams the Satan's Disciples in New York,tt0177023,1998,18,50
+584,Mystery Men,tt0132347,1999,53,299
+586,Nashville,tt0073440,1975,40,131
+587,Natural Born Killers,tt0110632,1994,50,147
+591,Newsies,tt0104990,1992,76,629
+592,Next,tt0435705,2007,41,150
+593,Next Friday,tt0195945,2000,21,83
+594,The Next Three Days,tt1458175,2010,43,87
+595,Nick of Time,tt0113972,1995,34,100
+599,A Nightmare on Elm Street,tt0087800,1984,31,73
+600,Freddy's Dead: The Final Nightmare,tt0101917,1991,36,104
+601,The Nines,tt0810988,2007,23,53
+602,Ninja Assassin,tt1186367,2009,23,38
+603,Ninotchka,tt0031725,1939,34,115
+605,Notting Hill,tt0125439,1999,34,103
+606,Nurse Betty,tt0171580,2000,52,173
+607,"O Brother, Where Art Thou?",tt0190590,2000,44,170
+608,Observe and Report,tt1197628,2009,31,70
+609,Wicker Park,tt0324554,2004,27,99
+610,Ocean's Eleven,tt0240772,2001,50,145
+611,Ocean's Twelve,tt0349903,2004,42,147
+615,One Flew Over the Cuckoo's Nest,tt0073486,1975,32,178
+616,Ordinary People,tt0081283,1980,43,121
+618,Orphan,tt1148204,2009,48,199
+619,The Other Boleyn Girl,tt0467200,2008,35,109
+620,Out of Sight,tt0120780,1998,37,135
+621,The Pacifier,tt0395699,2005,46,191
+622,Panic Room,tt0258000,2002,11,25
+623,The Patriot,tt0187393,2000,51,182
+624,Pearl Harbor,tt0213149,2001,54,113
+625,Peeping Tom,tt0054167,1960,33,111
+628,A Perfect World,tt0107808,1993,52,140
+629,Pet Sematary,tt0098084,1989,20,43
+630,Pet Sematary II,tt0105128,1992,31,79
+631,Petulia,tt0063426,1968,42,137
+632,Philadelphia,tt0107818,1993,65,258
+633,Phone Booth,tt0183649,2002,17,40
+634,Pi,tt0138704,1998,15,26
+635,The Pianist,tt0253474,2002,39,103
+636,The Piano,tt0107822,1993,25,73
+637,Pineapple Express,tt0910936,2008,31,78
+638,Pirates of the Caribbean: The Curse of the Black Pearl,tt0325980,2003,27,93
+640,Pitch Black,tt0134847,2000,12,42
+641,Planet of the Apes,tt0063442,1968,19,56
+642,Platinum Blonde,tt0022268,1931,30,99
+643,Platoon,tt0091763,1986,39,197
+644,Pleasantville,tt0120789,1998,45,167
+645,Point Break,tt0102685,1991,31,79
+647,Il Postino: The Postman,tt0110877,1994,49,195
+648,The Power of One,tt0105159,1992,43,114
+649,Precious,tt0929632,2009,35,93
+650,Predator,tt0093773,1987,13,29
+651,Pretty Woman,tt0100405,1990,36,69
+652,The Princess Bride,tt0093779,1987,21,64
+653,The Private Life of Sherlock Holmes,tt0066249,1970,22,62
+655,The Jack Benny Program,tt0042116,1950,61,239
+656,The Prophecy,tt0114194,1995,50,178
+657,The Proposal,tt1041829,2009,31,90
+658,Psycho,tt0054215,1960,21,49
+659,Public Enemies,tt1152836,2009,99,317
+660,Pulp Fiction,tt0110912,1994,38,102
+661,Punch-Drunk Love,tt0272338,2002,34,92
+662,Purple Rain,tt0087957,1984,30,89
+664,Queen of the Damned,tt0238546,2002,38,98
+665,The Queen,tt0436697,2006,39,123
+666,Rachel Getting Married,tt1084950,2008,21,65
+667,Raging Bull,tt0081398,1980,35,89
+668,Raising Arizona,tt0093822,1987,29,59
+669,Rambling Rose,tt0102753,1991,19,43
+670,Rambo: First Blood Part II,tt0089880,1985,23,55
+671,The Reader,tt0976051,2008,29,55
+672,Real Genius,tt0089886,1985,55,223
+673,Rear Window,tt0047396,1954,12,17
+675,Red Planet,tt0199753,2000,22,65
+677,The Relic,tt0120004,1997,34,97
+678,Remember Me,tt1403981,2010,27,81
+679,The Replacements,tt0191397,2000,53,233
+682,Reservoir Dogs,tt0105236,1992,21,82
+683,Resident Evil,tt0120804,2002,22,81
+685,Revolutionary Road,tt0959337,2008,18,34
+686,Ring,tt0178868,1998,29,69
+687,RKO 281,tt0120801,1999,41,126
+688,The Road,tt0898367,2009,13,23
+689,Robin Hood: Prince of Thieves,tt0102798,1991,39,174
+691,The Rock,tt0117500,1996,36,90
+692,RocknRolla,tt1032755,2008,40,144
+693,Rocky,tt0075148,1976,46,170
+694,The Rocky Horror Picture Show,tt0073629,1975,20,63
+695,Romeo  Juliet,tt0117509,1996,41,120
+696,Ronin,tt0122690,1998,18,48
+697,Gunsmoke,tt0045847,1953,25,133
+698,The Ruins,tt0963794,2008,19,73
+699,Runaway Bride,tt0163187,1999,31,98
+700,Rush Hour,tt0120812,1998,39,108
+701,Rush Hour 2,tt0266915,2001,24,51
+703,Donnie Darko,tt0246578,2001,28,80
+704,The Saint,tt0120053,1997,53,115
+705,The Salton Sea,tt0235737,2002,28,55
+706,The Sandlot,tt0108037,1993,39,230
+707,Save the Last Dance,tt0206275,2001,33,93
+708,Saving Private Ryan,tt0120815,1998,34,227
+710,Scarface,tt0086250,1983,49,157
+712,Schindler's List,tt0108052,1993,45,76
+713,Scream,tt0117571,1996,26,69
+714,Scream 2,tt0120082,1997,43,186
+715,Scream 3,tt0134084,2000,30,124
+716,Se7en,tt0114369,1995,49,100
+717,The Searchers,tt0049730,1956,40,152
+718,Semi-Pro,tt0839980,2008,56,275
+719,Sense and Sensibility,tt0114388,1995,25,128
+720,Serenity,tt0379786,2005,39,158
+721,Serial Mom,tt0111127,1994,48,167
+723,Sex and the City,tt0159206,1998,46,117
+724,"Sex, Lies, and Videotape",tt0098724,1989,10,25
+725,Sexual Life,tt0376874,2005,28,56
+727,Shakespeare in Love,tt0138097,1998,47,219
+728,Shallow Grave,tt0111149,1994,16,27
+729,Shampoo,tt0073692,1975,44,209
+730,The Shawshank Redemption,tt0111161,1994,35,136
+731,She's Out of My League,tt0815236,2010,56,192
+732,Sherlock Holmes,tt0988045,2009,33,69
+733,The Shining,tt0081505,1980,21,48
+734,The Shipping News,tt0120824,2001,29,63
+735,They Came from Within,tt0073705,1975,16,30
+737,Sideways,tt0375063,2004,41,119
+738,The Siege,tt0133952,1998,45,132
+739,Signs,tt0286106,2002,21,51
+740,The Silence of the Lambs,tt0102926,1991,35,78
+741,Silver Bullet,tt0090021,1985,29,54
+742,S1m0ne,tt0258153,2002,48,116
+743,Sister Act,tt0105417,1992,51,217
+744,The Sixth Sense,tt0167404,1999,24,41
+745,Sleepless in Seattle,tt0108160,1993,53,154
+746,Sleepy Hollow,tt0162661,1999,30,84
+747,Sling Blade,tt0117666,1996,31,83
+748,Slither,tt0439815,2006,31,88
+749,Slumdog Millionaire,tt1010048,2008,39,95
+750,Smokin' Aces,tt0475394,2006,49,180
+751,Snatch,tt0208092,2000,35,133
+753,Snow Falling on Cedars,tt0120834,1999,39,87
+754,So I Married an Axe Murderer,tt0108174,1993,53,154
+755,Solaris,tt0307479,2002,5,10
+756,Soldier,tt0120157,1998,26,82
+757,Someone to Watch Over Me,tt0094008,1987,25,60
+758,Something's Gotta Give,tt0337741,2003,28,128
+760,Spanglish,tt0371246,2004,24,71
+761,Spare Me,tt0108200,1994,27,94
+762,Meet the Spartans,tt1073498,2008,54,154
+764,Speed Racer,tt0811080,2008,76,274
+765,Sphere,tt0120184,1998,15,38
+766,Spider-Man,tt0145487,2002,37,113
+767,Star Trek,tt0060028,1966,57,177
+768,Star Trek II: The Wrath of Khan,tt0084726,1982,25,107
+769,Star Trek: First Contact,tt0117731,1996,30,79
+770,Star Trek: Generations,tt0111280,1994,41,162
+771,Star Trek: Insurrection,tt0120844,1998,21,75
+772,Star Trek: The Motion Picture,tt0079945,1979,28,104
+773,Star Wars: Episode IV - A New Hope,tt0076759,1977,42,124
+774,Star Wars: Episode II - Attack of the Clones,tt0121765,2002,47,148
+775,Star Wars: Episode VI - Return of the Jedi,tt0086190,1983,32,84
+777,Star Wars: Episode V - The Empire Strikes Back,tt0080684,1980,37,82
+779,Starman,tt0088172,1984,38,96
+780,Starship Troopers,tt0120201,1997,49,187
+781,State and Main,tt0120202,2000,42,208
+782,Station West,tt0040835,1948,30,101
+783,Stepmom,tt0120686,1998,21,40
+784,The Sting,tt0070735,1973,36,113
+785,Stir of Echoes,tt0164181,1999,32,116
+786,Storytelling,tt0250081,2001,21,43
+787,Strange Days,tt0114558,1995,38,103
+788,Strangers on a Train,tt0044079,1951,50,197
+790,Sugar,tt0990413,2008,45,129
+791,Sugar & Spice,tt0186589,2001,40,124
+792,Sunset Blvd.,tt0043014,1950,35,75
+793,Sunshine Cleaning,tt0862846,2008,30,59
+794,Superbad,tt0829482,2007,35,94
+797,The Surfer King,tt0418206,2006,30,60
+798,Suspect Zero,tt0324127,2004,27,50
+799,The Sweet Hereafter,tt0120255,1997,18,38
+800,Sweet Smell of Success,tt0051036,1957,37,111
+801,Swingers,tt0117802,1996,22,74
+802,Swordfish,tt0244244,2001,28,51
+803,"Synecdoche, New York",tt0383028,2008,71,264
+804,Taking Lives,tt0364045,2004,29,55
+805,Taking Sides,tt0260414,2001,19,45
+806,The Talented Mr. Ripley,tt0134119,1999,22,42
+808,Taxi Driver,tt0075314,1976,22,57
+809,The Terminator,tt0088247,1984,32,52
+810,Terminator 2: Judgment Day,tt0103064,1991,26,57
+811,Terminator Salvation,tt0438488,2009,31,98
+812,Thelma & Louise,tt0103074,1991,20,43
+814,They,tt0283632,2002,2,1
+815,The Thing,tt0084787,1982,21,126
+816,Thirteen Days,tt0146309,2000,48,146
+817,This Boy's Life,tt0108330,1993,30,64
+818,Three Kings,tt0120188,1999,40,176
+819,Kings of the Turf,tt0033788,1941,9,16
+820,3 Men and a Baby,tt0094137,1987,43,147
+821,The Three Musketeers,tt0108333,1993,32,120
+822,Thunderheart,tt0105585,1992,39,154
+824,Timber Falls,tt0857295,2007,9,24
+825,The Time Machine,tt0268695,2002,12,22
+826,Tin Cup,tt0117918,1996,33,123
+827,The Day After Tomorrow,tt0319262,2004,42,171
+828,Titanic,tt0120338,1997,70,299
+829,TMNT,tt0453556,2007,32,202
+830,To Sleep with Anger,tt0100791,1990,30,115
+831,Tombstone,tt0108358,1993,48,337
+832,Tomorrow Never Dies,tt0120347,1997,75,217
+833,Top Gun,tt0092099,1986,34,167
+834,Total Recall,tt0100802,1990,41,85
+835,The Tourist,tt1243957,2010,19,46
+836,Toy Story,tt0114709,1995,39,204
+837,Traffic,tt0181865,2000,68,131
+839,Trainspotting,tt0117951,1996,22,60
+840,The Transformers: The Movie,tt0092106,1986,63,591
+841,Tremors,tt0100814,1990,16,74
+843,TRON,tt0084827,1982,27,111
+844,Tropic Thunder,tt0942385,2008,44,219
+846,True Lies,tt0111503,1994,29,59
+847,True Romance,tt0108399,1993,43,237
+848,The Truman Show,tt0120382,1998,44,87
+849,Twilight,tt1099212,2008,31,135
+850,New Moon,tt1259571,2009,36,130
+851,Twin Peaks,tt0098936,1990,56,144
+852,Dead Ringers,tt0094964,1988,45,99
+853,Two for the Money,tt0417217,2005,40,103
+854,U Turn,tt0120399,1997,20,52
+855,Unbreakable,tt0217869,2000,30,60
+857,Up,tt1049413,2009,22,49
+858,Up in the Air,tt1193138,2009,27,47
+859,The Usual Suspects,tt0114814,1995,35,130
+860,V for Vendetta,tt0434409,2006,44,100
+861,Valkyrie,tt0985699,2008,45,101
+862,Vanilla Sky,tt0259711,2001,29,69
+863,The Verdict,tt0084855,1982,42,114
+865,Very Bad Things,tt0124198,1998,30,118
+867,Virtuosity,tt0114857,1995,35,84
+869,Wag the Dog,tt0120885,1997,60,269
+870,A Walk to Remember,tt0281358,2002,20,42
+871,Walking Tall,tt0351977,2004,38,142
+872,Wall Street,tt0094291,1987,53,162
+873,WALL-E,tt0910970,2008,34,206
+874,Wanted,tt0493464,2008,25,54
+875,War of the Worlds,tt0407304,2005,31,114
+876,Warm Springs,tt0423510,2005,49,193
+877,Watchmen,tt0409459,2009,76,201
+878,We Own the Night,tt0498399,2007,57,204
+879,What About Bob?,tt0103241,1991,51,134
+880,What Lies Beneath,tt0161081,2000,18,32
+881,When a Stranger Calls,tt0455857,2006,41,117
+883,While She Was Out,tt0887971,2008,19,42
+884,White Christmas,tt0047673,1954,28,114
+885,White Jazz,tt0892384,2012,41,119
+887,White Squall,tt0118158,1996,43,279
+888,Whiteout,tt0365929,2009,24,62
+889,Who Framed Roger Rabbit,tt0096438,1988,43,138
+891,Wild at Heart,tt0100935,1990,41,84
+892,The Wild Bunch,tt0065214,1969,55,392
+893,Where the Wild Things Are,tt0386117,2009,28,88
+895,Wild Wild West,tt0120891,1999,28,77
+896,Willow,tt0096446,1988,39,123
+899,Witness,tt0090329,1985,48,231
+901,Wonder Boys,tt0185014,2000,29,86
+902,The Woodsman,tt0361127,2004,15,25
+904,The Wrestler,tt1125849,2008,43,81
+905,The X Files,tt0120902,1998,24,41
+906,X-Men,tt0120903,2000,25,91
+907,X-Men Origins: Wolverine,tt0458525,2009,38,67
+908,xXx,tt0295701,2002,27,60
+910,Yes Man,tt1068680,2008,50,132
+911,You Can Count on Me,tt0203230,2000,16,39
+912,You've Got Mail,tt0128853,1998,38,96
+913,Youth in Revolt,tt0403702,2009,42,129
+914,Zerophilia,tt0421090,2005,14,44
