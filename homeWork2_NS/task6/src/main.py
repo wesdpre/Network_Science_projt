@@ -8,13 +8,16 @@ if __name__ == "__main__":
     print("This is the main entry point of the application.")
     print("We will use as input the movies.csv file and the movies network files.")
     print("Validating if the movies.csv files is in the path ../movies/movies.csv")
+    print ("Current working directory:", os.getcwd())
+    path_to_src = input("Enter the relative path to the src directory (e.g., task6/src): ")
+    os.chdir(path_to_src)
+
     movies_csv_path = "../movies/movies/movies.csv"
     if os.path.isfile(movies_csv_path):
         print("File exists.")
     else:
         print("File does not exist. Exiting the program.")
         exit(1)
-
     movies_data = pd.read_csv("../movies/movies/movies.csv")
     print("please check a sample of movies ids and choose on of them:")
 
@@ -28,7 +31,7 @@ if __name__ == "__main__":
     print(f"You have selected the movie: {input_movie_title} with index {file_index}")
     
     print("Computing the network community using NetworkX Louvain algorithm.")
-    nodes_df, edges_df = utils.get_network_dataframe(file_index)
+    nodes_df, edges_df = utils.get_network_dataframe(file_index, networks_folder_path="../movies/movies/networks/")
     G = utils.create_graph_from_dataframes(nodes_df, edges_df)
     communities, _ = utils.compute_louvain_communities(G, edges_df)
     pagerank_scores = utils.compute_pagerank(G, edges_df)
