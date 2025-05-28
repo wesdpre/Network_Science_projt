@@ -17,7 +17,7 @@ def get_intra_community_modularity(G, comm):
 
 def compute_modularity(G, communities):
     total_modularity = sum(get_intra_community_modularity(G, comm) for comm in communities)
-    print(f"Local algorithm modularity: {total_modularity:.4f}")
+    # print(f"Local algorithm modularity: {total_modularity:.4f}")
     return total_modularity
 
 
@@ -54,7 +54,7 @@ def greedy_agglomerative(G):
 
         # Step 3: Merge the best pair if improvement
         if best_merge and best_increase >= 0:
-            print(f"Best merge found with increase: {best_increase:.4f}")
+            # print(f"Best merge found with increase: {best_increase:.4f}")
             c1, c2 = best_merge
             communities.remove(c1)
             communities.remove(c2)
@@ -64,9 +64,9 @@ def greedy_agglomerative(G):
             improved = False  # No further improvement
         total_modularity = sum(get_intra_community_modularity(G, comm) for comm in communities)
         progress_mod_scores.append(total_modularity)
-        print(f"New modularity after merge: {total_modularity:.4f}")
-        print("Number of communities:", len(communities))
-    print(f"Final number of communities: {len(communities)}")
+        # print(f"New modularity after merge: {total_modularity:.4f}")
+        # print("Number of communities:", len(communities))
+    # print(f"Final number of communities: {len(communities)}")
     return communities, progress_mod_scores
 
 

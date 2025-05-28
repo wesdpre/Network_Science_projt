@@ -7,10 +7,10 @@ import numpy as np
 import pandas as pd
 
 
-def get_network_dataframe(file_index):
+def get_network_dataframe(file_index, networks_folder_path="./task6/movies/movies/networks/"):
     # Load the nodes and edges dataframes
-    nodes_df = pd.read_csv(f"../movies/movies/networks/{file_index}_nodes.csv", on_bad_lines='skip')
-    edges_df = pd.read_csv(f"../movies/movies/networks/{file_index}_edges.csv", on_bad_lines='skip')
+    nodes_df = pd.read_csv(f"{networks_folder_path}{file_index}_nodes.csv", on_bad_lines='skip')
+    edges_df = pd.read_csv(f"{networks_folder_path}{file_index}_edges.csv", on_bad_lines='skip')
     return nodes_df, edges_df
 
 def create_graph_from_dataframes(nodes_df, edges_df):
@@ -34,7 +34,7 @@ def compute_louvain_communities(G, edges_df):
 
     # Compute modularity
     mod_score = modularity(G, communities, weight='Weight' if 'Weight' in edges_df.columns else None)
-    print(f"Modularity using Louvain algorithm from NetworkX: {mod_score:.4f}")
+    # print(f"Modularity using Louvain algorithm from NetworkX: {mod_score:.4f}")
 
     community_data = {
         "n_communities": len(communities),
